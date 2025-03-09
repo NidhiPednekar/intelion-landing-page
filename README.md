@@ -1,6 +1,5 @@
 # Intelion Landing Page
 
-![Intelion Banner](https://via.placeholder.com/1200x400?text=Intelion+Landing+Page)
 
 ## 🌐 Live Demo
 🚀 **Deployed Project:** [Intelion Landing Page](https://intelion-o7ew5zkxi-nidhi-pednekars-projects.vercel.app/)
