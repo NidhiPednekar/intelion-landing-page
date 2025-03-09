@@ -1,12 +1,63 @@
-# React + Vite
+# Intelion Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Intelion Banner](https://via.placeholder.com/1200x400?text=Intelion+Landing+Page)
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+🚀 **Deployed Project:** [Intelion Landing Page](https://intelion-o7ew5zkxi-nidhi-pednekars-projects.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 About the Project
+The **Intelion Landing Page** is a sleek and modern web interface designed to showcase Intelion's brand and offerings. Built with **React** and **Vite**, this landing page is optimized for speed, responsiveness, and an engaging user experience.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **Frontend:** React, Vite, CSS
+- **Deployment:** Vercel
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+✔️ Responsive and modern UI  
+✔️ Optimized for fast performance  
+✔️ Built with React 
+✔️ Hosted on Vercel for seamless deployment  
+
+## 📂 Project Structure
+```
+intelion-landing-page/
+│-- src/
+│   ├── components/    # Reusable UI components
+│   ├── pages/         # Main pages
+│   ├── assets/        # Images & icons
+│   └── App.js         # Root component
+│-- public/            # Static assets
+│-- index.html         # Main HTML file
+│-- package.json       # Project dependencies
+│-- vite.config.js     # Vite configuration
+```
+
+## 📥 Installation & Setup
+To run this project locally, follow these steps:
+
+1️⃣ Clone the repository:
+```sh
+git clone https://github.com/NidhiPednekar/intelion-landing-page.git
+cd intelion-landing-page
+```
+
+2️⃣ Install dependencies:
+```sh
+npm install
+```
+
+3️⃣ Start the development server:
+```sh
+npm run dev
+```
+
+4️⃣ Open in browser: `http://localhost:5173/`
+
+## 🎯 Deployment
+The project is automatically deployed to **Vercel** on each push to the `main` branch. To manually deploy:
+```sh
+vercel --prod
+```
+
+
+
